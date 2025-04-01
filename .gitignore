@@ -1,0 +1,9 @@
+# Ignore virtual environments
+qr-env/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
