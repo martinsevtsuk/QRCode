@@ -1,5 +1,6 @@
 # Ignore virtual environments
 qr-env/
+qr_env/
 
 # Ignore macOS system files
 .DS_Store
